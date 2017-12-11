@@ -1,6 +1,6 @@
 module OpenSolid.Scene
     exposing
-        ( RenderOption
+        ( RenderOption(..)
         , alpha
         , antialias
         , clearColor
